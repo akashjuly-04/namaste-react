@@ -1,1 +1,1 @@
-# Mock Swiggy app(only Frontend) using Swigg's Api 
+# for Study purpose 
