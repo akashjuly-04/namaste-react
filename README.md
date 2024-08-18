@@ -1,1 +1,1 @@
-# for Study purpose 
+# Swiggy app using Swiggy's api only frontend
